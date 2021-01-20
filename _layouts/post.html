@@ -37,8 +37,9 @@ layout: compress
                 {% include meta.html %}
                 </div>
             </div>
-         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></div><!-- /#disqus_thread -->{% endif %}
+       <div id="post-disqus" class="container">
+    {% include disqus.html %}
+</div>
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
