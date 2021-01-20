@@ -1,7 +1,7 @@
 # Site
-title:              한수지
-bio:                'My Space.'
-description:        "내 개인적인 공간."
+title:              My diary
+bio:                '앵수지'
+description:        "내 일기장 :)"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
