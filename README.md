@@ -2,5 +2,4 @@
 
 blog open ❕ ❕  🥰
 
-<a href="https://ibb.co/VDh1fkm"><img src="https://i.ibb.co/K7QPT8w/image.jpg" alt="image" border="0"></a>
-
+![냥이](https://user-images.githubusercontent.com/77564333/105282113-f4aa1d00-5bf0-11eb-8340-e5ec1fb15c97.jpg)
