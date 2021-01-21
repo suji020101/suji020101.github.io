@@ -1,4 +1,10 @@
-# 🎀 My diary	🎀
+---
+layout: page
+title: 🎀My diary🎀
+tags: [about, Jekyll, theme, moon]
+date: 2021-01-21
+comments: true
+---
 
 blog open ❕ ❕  🥰
 
