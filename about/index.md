@@ -2,7 +2,7 @@
 layout: page
 title: 🎀My diary🎀
 date: 2021-01-21
-comments: false
+comments: true
 ---
 
 <center>blog open ❕ ❕  🥰</center>
